@@ -80,4 +80,4 @@ async def on_ready():
 	await bot.change_presence(game=discord.Game(name="go away"))
 
 bot.loop.create_task(check_queue())
-bot.run('')
+bot.run('NzA5NDcyOTgzNDgzMjg1NTc1.XrmaQA.dQq8BAbjgIEwjKO-EsiMMiCzx9c')
